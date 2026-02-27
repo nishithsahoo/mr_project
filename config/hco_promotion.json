@@ -1,0 +1,19 @@
+{
+  "sources": {
+    "event": {
+      "path": "outputs/event_processed.csv"
+    },
+    "edetail": {
+      "path": "outputs/edetail_processed.csv"
+    },
+    "call": {
+      "path": "outputs/call_processed.csv"
+    },
+    "vae": {
+      "path": "outputs/vae_processed.csv"
+    }
+  },
+  "output": {
+    "csv": "outputs/hco_promotion.csv"
+  }
+}

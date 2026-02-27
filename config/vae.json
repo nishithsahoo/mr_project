@@ -1,0 +1,12 @@
+{
+  "source": {
+    "path": "inputs/VAE.csv"
+  },
+  "filters": {
+    "product_id": "JP_708127-420004",
+    "months_to_retain": 7
+  },
+  "output": {
+    "csv": "outputs/vae_processed.csv"
+  }
+}

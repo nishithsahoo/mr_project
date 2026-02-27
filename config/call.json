@@ -1,0 +1,12 @@
+{
+  "source": {
+    "path": "inputs/Call.csv"
+  },
+  "filters": {
+    "product_external_id_vod__c": "JP_708127-420004",
+    "months_to_retain": 7
+  },
+  "output": {
+    "csv": "outputs/call_processed.csv"
+  }
+}

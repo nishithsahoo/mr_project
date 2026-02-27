@@ -1,0 +1,12 @@
+{
+  "source": {
+    "path": "inputs/Edetail.csv"
+  },
+  "filters": {
+    "product_name": "EBG",
+    "months_to_retain": 7
+  },
+  "output": {
+    "csv": "outputs/edetail_processed.csv"
+  }
+}

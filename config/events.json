@@ -1,0 +1,12 @@
+{
+  "source": {
+    "path": "inputs/Events.csv"
+  },
+  "filters": {
+    "product_id": "708127",
+    "months_to_retain": 7
+  },
+  "output": {
+    "csv": "outputs/event_processed.csv"
+  }
+}
